@@ -8,7 +8,7 @@ A gently curated list of projects that might have some more general public inter
 
 - Github Flat repositories for the ongoing collection of data such as [the coefficients necessary for computing Canadian personal income taxes](https://github.com/gburtini/flat-canada-tax-coefficients) and a [simple collection of macroeconomic indicators](https://github.com/gburtini/flat-price-earnings-data).
 - An initial take on (mostly closed-form) PDF, CDF and sampling functions for [various probability distributions in PHP](https://github.com/gburtini/Probability-Distributions-for-PHP).
-- A cool little tool for [generalizing XPath selectors](https://github.com/gburtini/Potent) and recovery of underlying [Firebug implementation details](https://github.com/gburtini/potent-tools-for-xpath). Used for
+- A cool little tool for [generalizing XPath selectors](https://github.com/gburtini/Potent) and recovery of underlying [Firebug implementation details](https://github.com/gburtini/potent-tools-for-xpath). Used for producing a semi-automated data scraping interface, where users could click examples of what they want to collect and have the Potent function generalize the selector.
 - [passport-masquerade](https://github.com/gburtini/passport-masquerade), a straightforward, mostly "drop-in", passport middleware for allowing privileged users to impersonate other users.  
 
 ## 📫 Contact
